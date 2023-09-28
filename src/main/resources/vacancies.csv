@@ -1,0 +1,387 @@
+Id,Title,Short description,Long description,Company,Salary,Link
+1,Software engineer у Kyivstar.Tech,"Забезпечення швидкого зворотнього зв’язку про проблеми з ПЗ та усуненням проблем, пов’язаних з логікою роботи мобільного додатку/веб версії продукту.","Чому Kyivstar.Tech:
+- Офіс чи ремоут — вирішувати вам: даємо можливість працювати будь-де, а робоче місце облаштуємо.
+- Ремоут онбординг.
+- Перформанс бонуси для всіх (річні чи квартальні — залежить від ролі).
+- Навчаємо працівників: є безліч внутрішніх ресурсів і програм від партнерів, власна бібліотека.
+- Страхування здоров’я і життя для працівників.
+- Wellbeing-програма та корпоративний психолог.
+- Компенсація витрат на мобільний зв'язок Київстар.
+
+Що ми очікуємо:
+- Знання та досвід роботи з UNIX.
+- Знання та досвід роботи з SQL: Cassandra, postgresql.
+- Знання elasticsearch: kibana.
+- Знання по kubernetes та docker буде плюсом.
+- Досвід в супроводі мобільних додатків або веб продуктів.
+- Досвід усунення несправностей програм, технічна підтримка та навички багатозадачності.
+- Можливість бути на зв'язку в неробочий час у разі виникнення проблем в системі.
+- Бажання вчитися та швидко адаптуватися.
+- Високий рівень клієнтоорієнтованості.
+- Бажання допомагати та підтримувати.
+- Цілеспрямоване та мотивоване мислення.
+- Рівень англійської мови —  середній, розуміння технічної літератури.
+
+Основні обов’язки:
+- Обробляти та вирішувати запити клієнтів і надавати найрелевантнішу інформацію, пов’язану з нашим програмним забезпеченням.
+- Усунення проблем, пов’язаних з логікою роботи мобільного додатку та веб версії продукту.
+- Забезпечувати швидкий зворотній зв’язок про проблеми з програмним забезпеченням.
+- Аналізувати разом із технічними спеціалістами, щоб зрозуміти бізнес-логіку ІТ.",Kyivstar.Tech,-,https://robota.ua/ru/company13562972/vacancy9621602
+2,Junior Java at Protectimus,"If you are interested in joining our dynamic team and contributing to our mission, we would love to hear from you","We are a multi-product fintech company. The first product the company began was a payment system. This product has been in production since 2013 and has about 6 million users. 
+
+We are looking for a Java Developer with experience:
+- At least 1 year of commercial experience with Java;
+- Experience in fintech projects - building billing/payment systems,
+experience in developing, maintaining, and optimizing systems with a high load.
+
+Required technology stack:
+- Java / Spring;
+- PostgreSQL;
+- TestNG, Mockito;
+- Tomcat;
+- Basic knowledge of JS and JQuery;
+- Knowledge of template engine (Freemarker/Velocity/Thymeleaf/etc);
+- Basic knowledge of Linux;
+- Working with a repository
+
+What we propose in addition to the salary:
+- Cool team.
+- Interesting project with honest user feedback.
+- Accounting and legal support.
+- Teambuilding and other joint activities.
+- Some other very pleasure bonuses.",Protectimus,-,https://djinni.co/jobs/560807-junior-java-developer/
+3,Junior Java у Bookmap,"Bookmap is a high-performance market data visualization & trading platform. If you are looking to challenge yourself, always was among the best in class, this job is for you","Only theoretical knowledge and some pet-projects are required for Junior position.
+
+We pay $ 100 for the completed test task!
+Participate in the competition and receive $ 100 for completing the test task and the opportunity to become part of the Bookmap team.
+
+Required:
+1. Java fundamentals, OOP, Concurrency
+2. Desire to improve skills
+3. Passion to technologies
+
+Good to have:
+1. Computer Science knowledge: Algorithms, Data structures, Performance, etc.
+2. Written English.
+3. Interest in modern software and hardware technologies and frameworks.
+4. Web basics: JS, Services, etc.
+5. UI/UX fundamentals.
+
+Benefits:
+1. Сode from anywhere in the world. Completely remote!
+2. Be part of a team that work on an innovative product (not an outsource company)
+3. Grow with us to new technologies & algorithms
+4. Improve your skills with a professional team
+5. Get a decent salary with pleasure",Bookmap,до $1500,https://jobs.dou.ua/companies/veloxpro/vacancies/193416/
+4,Junior Java Developer у Epam,Work on challenging projects and getting involved in the entire software development process,"EPAM is a leading global provider of digital platform engineering and development services. 
+
+We're searching for Junior Java Developer to join our team. Don't worry if you're inexperienced – we'll provide you with a few months of training in topics like Front End, Cloud, AI, and Engineering before you start working on real projects.
+
+What You’ll Do
+- Write clean, efficient, and scalable code in Java to meet project requirements
+- Develop Java-based applications, adhering to coding standards and best practices
+- Utilize your JavaScript skills to enhance front-end functionality, working with HTML, CSS, and JavaScript frameworks as needed
+- Resolve issues in software applications, performing debugging and testing
+- Collaborate with cross-functional teams to design, develop and deploy software solutions
+- Stay updated with the latest trends and advancements in Java development and related technologies
+
+What You Have
+- Knowledge of Java programming and an understanding of object-oriented principles and design patterns
+- Awareness of web application development, RESTful APIs, and Spring framework
+- Basic knowledge of database systems and SQL
+- English communication skills at B1+ level
+- Availability for full-time work (40 hours per week)
+- Motivation and eagerness to learn and grow with new technologies
+
+Nice to have
+- An IT degree or IT courses/certification
+- Familiarity with front-end technologies like HTML, CSS, JavaScript, and front-end frameworks such as Angular, React, or Node.js
+- Cloud computing skills:AWS, Azure, or Google Cloud Platform
+- Former projects or work experience with Java, Spring MVC, JavaScript, HTML, CSS, Angular, React
+
+We Offer
+- Engineering community of industry’s professionals
+- Flexible schedule and opportunity to work remotely within Poland
+- Leadership development, career advising, soft skills and well-being programs
+- Certification (GCP, Azure, AWS)
+- Unlimited access to LinkedIn Learning, Get Abstract, O’Reilly, Cloud Guru
+- Regular assessments and salary reviews
+- Referral bonuses
+- Benefits package (health insurance, multisport, shopping vouchers)
+- Corporate and social events",Epam,-,https://www.epam.com/careers/job-listings/job.91072.junior-java-developer_poland
+5,Software Developer for Software House,Seeing Junior Software Developer to join the team and work on multiple projects simultaneously.,"About the company:
+SoftwareHouse is a leading software house specializing in building innovative products for diverse projects across different domains. With a skilled team of developers and cutting-edge technologies, SoftwareHouse crafts software solutions, including web applications, mobile apps, and more.
+
+Responsibilities:
+- Collaborating with the team to develop software solutions that meet client requirements
+- Writing clean, efficient, and well-documented code
+- Participating in code reviews and contributing to the development of best practices
+- Troubleshooting and debugging software issues
+- Staying up-to-date with emerging trends and technologies in software development
+
+Requirements:
+- U- p to 2 years of relevant experience.
+- Proven experience with Nest JS (TS), Electron, PostgreSQL, Redis, and Google Cloud Platform
+- Strong problem-solving skills and attention to detail
+- Ability to work independently as well as part of a team
+- Good communication skills
+- Fluency in English (both written and spoken)
+
+",SD Solutions,$1500-3000,https://djinni.co/jobs/547736-junior-software-developer-for-software-house/
+6,Java Developer (middle) у PrivatBank,"Розробка системи управління персоналом банку. Написання коду для нового функціоналу, а також покращення старого функціоналу.","Приват Банк — є найбільшим банком України та одним з найбільш інноваційних банків світу. Займає лідируючі позиції за всіма фінансовими показниками в галузі та складає близько чверті всієї банківської системи країни.
+
+Ми шукаємо Java Developer, який прагне працювати в динамічному середовищі та розділяє цінності взаємної довіри, відкритості та ініціативності.
+
+Основні вимоги:
+- Досвід розробки ПЗ від 2 років
+- Досвід розробки web додатків
+- Володіння Java Spring на рівні middle
+- Володіння Java Script на рівні middle
+- Знання SQL, MongoDB, GIT
+
+Основні обов’язки:
+- Розробка системи управління персоналом банку. 
+- Написання коду для нового функціоналу, а також покращення старого функціоналу.
+
+Своїм співробітникам ми пропонуємо:
+- Роботу в найбільшому та інноваційному банку України
+- Офіційне працевлаштування та 24 календарних дні відпустки
+- Конкурентну заробітну плату
+- Медичне страхування та корпоративний мобільний зв’язок
+- Корпоративне навчання
+- Віддалену роботу або сучасний офіс : Київ, Дніпро та Львів
+- Цікаві проєкти, амбіційні задачі та динамічний розвиток
+- Професійний колектив та сильну команду
+- Ти можеш працювати у будь-якому місці, де ти почуваєшся безпечно
+- Компенсація лікарняних у повному обсязі",PrivatBank,-,https://djinni.co/jobs/554434-java-developer-middle-/
+7,Middle Java Developer,"Розробка нового функціоналу,
+допомога в створенні архітектури,","Обов’язки:
+- розробка нового функціоналу,
+- допомога в створенні архітектури,
+- розробка API,
+- написання чистого, функціонального та продуктивного коду,
+- тестування та виправлення помилок чи інших проблем з кодом.
+
+Вимоги:
+- хороші знання Java 2 SE, EE,
+- розуміння принципів ООП,
+- досвід роботи з PostgreSQL / Oracle, Apache Tomcat, Maven, Kubernetes,
+- добре знання ANSI SQL,
+- знання технологій Log4j, JDBC, JPA (Hibernate), Spring,
+- знання основ захисту інформації та побудови захищених Web додатків,
+- базовий рівень знань OC Unix / Linux,
+- навички роботи з Eclipse IDE або IDEA,
+- навички роботи з системами контролю версій GIT,
+- базовий англійський (читати та працювати з документацією),
+- досвід роботи в реальних проектах не менше 2 років.
+
+Ми пропонуємо:
+- Офіційне працевлаштування. Ми налаштовані на довготривалу співпрацю.
+- 31 день оплачуваної відпустки, з яких 7 днів можна обміняти на грошову компенсацію.
+- Оплачувані лікарняні.",Український процесінговий центр,,https://www.work.ua/jobs/4954671/
+8,Middle Java Developer,Take care of Back-End development of Process Engine that uses Event Driven Architecture.,"Avanade is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem. Every day, our 59,000 professionals in 26 countries make a genuine human impact for our clients, their employees and their customers.
+
+About the role:
+We are building a team which will join a greenfield project for financial industry. As part of the team, you will take care of Back-End development of Process Engine that uses Event Driven Architecture. Day-to-day you will work with technologies such as Java, Azure, Spring stack, Kafka, CosmosDB.
+
+Perfect skillset:
+- 3y+ of experience with Java development
+- 2+ years of experience with Spring stack
+- Experience of working with databases (SQL, Oracle, or MongoDB)
+- Working knowledge of cloud technologies (Azure preferred)
+- Solid written and spoken English skills (we communicate in English on a daily basis)
+
+We offer: 
+- B2B contract
+- Access to Microsoft certifications and Pluralsight 
+- Possibility to work 100% remote or in the office (Wroclaw, Cracow)
+- English lessons",Avanade,-,https://careers.avanade.com/jobsen/JobDetail/Java-Developer-B2B-contract/66400
+9,Middle/Senior Java Developer,Java developer to join the ongoing project - application for creating and pricing promotions for one of the largest European retail company.,"Software Rocket is an international IT company based in Portugal, with representatives in Hong Kong, Ukraine and Lebanon. We are working mainly in the FinTech, Banking and Insurance domains, as well as in others.
+
+Required
+● 4+ years of experience as a Java developer
+● Understanding basic algorithms and data structures
+● Experience with microservice architecture
+● Experience with Java 8 and higher
+● Experience with Spring, SpringBoot, SpringCloud
+● Experience with SQL and NoSQL databases
+● Knowledge concepts and basic experience with Message Brokers (Kafka, RabbitMQ)
+● Great communication and collaboration skills
+● English at the Upper - intermediate + level at least
+
+Your Responsibilities
+● Work in a full collaborative environment - including meetings, iterative
+development, estimations, and design sessions
+● Design solution for a problem, find alternatives and technologies and present them for
+architectural review.
+● Write efficient code according to design with unit and integration tests
+● Work with engineers, software architects, and quality engineers to resolve development
+roadblocks.
+
+What We Offer
+- completely remote work;
+- a responsible team of senior level specialists driven by the delivering of quality results;
+- many projects, which allows you to switch in between in the future to improve your skills.",SoftwareRocket,$3500-5000,https://djinni.co/jobs/277695-middle-senior-java-developer/
+10,Senior Java Developer,Ізраїльська компанія Gransoft шукає в свою команду Senior Java розробника на постійну роботу для розробки та розвитку міжнародного порталу страхової медицини.,"Вимоги до кандидата:
+- Досвід розробки програмного забезпечення 5+ років
+- Досвід роботи з базами даних 5+ років
+- Досвід з Java, Hibernate, Spring, MySQL
+- Досвід роботи з розробкою та експлуатацією високонавантажених проектів
+- Досвід вирішення нетривіальних проблем у production
+- Англійська - fluent 
+- Відповідальне ставлення до поставлених завдань та термінів
+
+Ми пропонуємо:
+- Цікавий проект
+- Гідна заробітна плата
+- Творча атмосфера. Ми вітаємо ваші ідеї та пропозиції
+- Міжнародна команда спеціалістів з великим досвідом Java.
+- Оплачувана відпустка та свята
+- Гнучкий робочий графік
+- 8-ми годинний робочий день
+- Знайомство з медичною тематикою
+- Робота з офісу в Ужгороді чи Гданську
+- Допомага з організацією переїзду та проживання з компенсацією витрат
+
+Усі деталі при особистому спілкуванні",Gransoft,-,https://robota.ua/ru/company696098/vacancy9622952
+11,Senior Java Software Engineer у UKEESS Software House,"Експертиза у створенні високопродуктивних веб-додатків і мікросервісів, знайомим із передовими методами створення масштабованих веб-сайтів. ","Ключові обов'язки:
+- Оцінка, аналіз і визначення можливостей для покращення продуктивності веб-сторінок, орієнтованих на клієнтів. Це включатиме в себе знання потоків і способів використання продукту, щоб зрозуміти вплив ефективності на ключові потоки, які можуть сформулювати вплив на бізнес.
+- Взаємодія з командами для вирішення проблем, впровадження найкращих практик і покращення продуктивності сайту. Це передбачає розробку та подання запитів на зміни та команди наставництва щодо найкращих практик.
+- Проектування, створення, вдосконалення та обслуговування внутрішніх інструментів за допомогою галузевих стандартних технологій.
+- Робота із технологіями AWS, такими як ECS, Fargate тощо.
+- Робота із технологіями Docker, Jenkins, CDN.
+- Написання коду, який відповідає стандартам і найкращим практикам, особливо щодо продуктивності, стабільності та можливості тестування
+- Робота в гнучкому середовищі співпраці (SCRUM)
+- Своєчасне дослідження та вирішення проблеми клієнтів.
+
+Необхідні навички та досвід:
+- 5+ років досвіду створення RESTful-сервісів у середовищі мікросервісів
+- 4+ роки досвіду роботи з Java-
+- Комерційний досвід створення масштабованих веб-сайтів
+- Від пів року досвіду роботи із Node.JS
+- 2+ роки досвіду розгортання програм у хмарному середовищі AWS або Azure
+- Поглиблене розуміння структур даних і шаблонів проектування
+- Розуміння безперервної CI/CD
+- Досвід командного рядка з використанням віддаленого доступу до Linux
+- Знання веб-протоколів
+- Англійська: вище середнього (як усна, так і письмова)
+
+Не відповідаєте всім вимогам? Все добре! Якщо Вам імпонує дана позиція, але ваш досвід не повністю відповідає кожній кваліфікації в описі посади, ми радимо вам все одно подати заявку. Адже саме Ви можете бути ідеальним кандидатом! ;)
+
+Що ми пропонуємо новому колезі?
+- Цікавий проект та робота у команді розробників із досвідом
+- Конкурентоспроможна компенсація (на основі ринкових даних, але також залежить від технічного рівня кандидата)
+- Гнучкий графік роботи
+- Щорічна оплачувана відпустка та можливість скористатись відпусткою за власний рахунок
+- Безкоштовні уроки англійської (онлайн)
+- Медичне страхування або дві альтернативи на вибір
+- Індивідуальний плани для професійного та особистісного розвитку
+- Відсутність бюрократії та мікроменеджменту, дружний колектив
+- Сучасне комфортне офісне приміщення (зона барбекю, кухні, кімнати відпочинку та ін.)
+- Закордонні відрядження (після війни)
+- Парковка на території офісу та зарядна станція для електромобілів
+- Корпоративні подарунки, свята та розваги
+- Спортивні активності: настільний теніс, футбол, воркаут",UKEESS Software House,-,https://robota.ua/ru/company139367/vacancy8416642
+12,Senior Node.js Developer у Devox,"Devox Software is an international IT outsourcing company with development facilities in five countries – Poland, Ukraine, Romania, Azerbaijan, Georgia.","Devox Software is an international IT outsourcing company with development facilities in five countries – Poland, Ukraine, Romania, Azerbaijan, Georgia.
+
+Requirements:
+• 5+ years of experience in software engineering
+• Strong proficiency in at least one programming language, such as PHP, NodeJS, VueJs
+• Experience with cloud-based technologies, such as AWS or Azure
+• Knowledge of database technologies, such as SQL or NoSQL
+• Familiarity with agile software development methodologies
+• Excellent problem-solving and analytical skills
+• Strong communication and collaboration skills
+• Intermediate level of English is a must
+
+Responsibilities:
+• Design and develop scalable, reliable, and maintainable code for our platform.
+• Collaborate with the product team to understand customer needs and translate them into technical requirements.
+• Write clean, efficient, and well-documented code.
+• Debug and troubleshoot issues as they arise.
+• Participate in code reviews and provide constructive feedback to other team members.
+• Stay up to date with the latest technologies and best practices in software engineering
+
+",Devox,-,https://djinni.co/jobs/560520-senior-node-js-developer/
+13,Middle Automation QA Java (Part-time),,"About the project:
+B2B FX trading and compliance platform for emerging market (EM) currencies. Available to banks and Fintech payment companies alike, it brings previously unseen price and data transparency to a fragmented EM payment industry.
+Part-time — 20h\week
+
+Requirements:
+● 3+ years of experience as an AQA Java;
+● Basic Testing Activities and Theory;
+● Engineering Management;
+● Code Quality;
+● TA Framework Design and Configuration;
+● Web UI Test Automation;
+● Mobile Test Automation;
+● Version Control Systems;
+● CI/CD — Configuration and management;
+● API Test Automation;
+● Java — Coding Language Experience;
+● Follow Java code conventions;
+● Use core language capabilities to solve given tasks;
+● Utilize the Java platform to implement tasks;
+● Use common language capabilities to solve given tasks;
+● Utilize capabilities of Java third-party libraries to improve code readability and eliminate boilerplate code;
+● Utilize capabilities of Java third-party libraries to solve common problems instead of implementing custom solutions;
+● Yaml tests.
+
+What will you get:
+
+● Competitive salary and good compensation package;
+● Exciting, challenging and stable startup projects with a modern stack;
+● Corporate English course;
+● Ability to practice English and communication skills through permanent interaction with clients from all over the world;
+● Professional study compensation, online courses and certifications;
+● Career development opportunity, semi-annual and annual salary review process;
+● Necessary equipment to perform work tasks;
+● VIP medical insurance or sports coverage;
+● Informal and friendly atmosphere;
+● The ability to focus on your work: a lack of bureaucracy and micromanagement;
+● Flexible working hours (start your day between 8:00 and 11:30);
+● Team buildings, corporate events;
+● Paid vacation (18 working days) and sick leaves;
+● Cozy offices in 2 cities ( Kyiv & Lviv ) with electricity and Wi-Fi ( Generator & Starlink )
+● Compensation for coworking (except for employees from Kyiv and Lviv)
+● Corporate lunch + soft skills clubs
+● Unlimited work from home from anywhere in the world (remote);
+● Geniusee has its own charity fund.
+
+
+Reasons you will love working at Geniusee:
+● Employee-friendly working conditions
+One of Geniusee’s core values is treating each team member like a trusted partner. You get to choose your work environment because you know yourself best.
+● Teamwork beats distance
+We put effort into maintaining a happy, friendly atmosphere within the team. We see each other at team meetups, workshops, G-talks, marathons, and other events.
+● Excellent tools and equipment
+You don’t have to worry about your work gear, Geniusee will provide you with high-quality hardware appropriate for your job description.
+
+Your Geniusee Career Growth:
+● 360-degree feedback — a process through which feedback from an employee’s subordinates, colleagues, and supervisor, as well as a self-evaluation by the employee themselves, is gathered
+● Evaluation — time to talk with an expert. Together, you will assess the progress you have achieved
+● Navigation — summarize your review with a manager and define your future goals",Geniusee,-,https://jobs.dou.ua/companies/geniusee/vacancies/244682/
+14,Senior Java/.NET Developer (Big Data),"About project:
+It’s a platform that generates scripts for more effective advertising sales. The client generates scripts that are placed on their site in places where ads are displayed. After that, collect analytics. It helps in business development.
+
+The client is also considering Java developers who are ready to switch to .NET
+The project stack includes С# on the back end and React on the front end.","About project:
+It’s a platform that generates scripts for more effective advertising sales. The client generates scripts that are placed on their site in places where ads are displayed. After that, collect analytics. It helps in business development.
+
+The client is also considering Java developers who are ready to switch to .NET
+The project stack includes С# on the back end and React on the front end.
+
+Responsibilities:
+— Build distributed cloud-based server-side code in a CI/CD environment.
+— Create data pipelines.
+— Perform data analysis.
+— Implement accumulation and clustering algorithms.
+— Learn something new every day.
+
+Requirements:
+— BSc/MSC in Computer Science from an established institution or other equivalent Software Engineering background.
+— 5 years experience in C#/Java as a Senior Backend developer in a web/cloud product-focused company.
+— Upper-Intermediate English.
+— Real-world experience with Linux cloud environments, working with SQL and no-SQL DBs, performing Dev-ops and research tasks.
+— Experience with AWS big data tools such as Athena and Redshift.
+— 2 years experience in Computer graphics, working with 2D/3D libraries like Skia, OpenGL, or browser graphics (Canvas/SVG/WebGL).",YozmaTech,-,https://jobs.dou.ua/companies/yozma-tech/vacancies/244644/
